@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [0.1.18] - 2026-10-10
 ### Added
 - First public release of GraphEmUp, a desktop workbench for Neo4j.
 - Connections: save several named connection profiles and open them side by side. Passwords are encrypted, with the key kept in the OS keychain (Windows Credential Manager, Linux Secret Service).
